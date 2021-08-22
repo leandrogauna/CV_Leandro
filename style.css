@@ -1,11 +1,12 @@
 h1
 {
-    color: blue;
+    font-family: 'Merienda', cursive;
+    color: darkgrey;
     text-transform: uppercase;
 }
 
 h2{
-    color: blue;
+    color: black;
     font-size: large;
 }
 
@@ -20,7 +21,7 @@ h2{
 }
 
 #rojo{
-    color: tomato;
+    color: black;
 
 }
 
@@ -29,3 +30,29 @@ img{
     border-radius: 300px;
   }
 
+.personal{
+    width: 500px;
+    height: 250px;
+    background-color : lightslategray;
+    padding: 20px;
+    border-bottom: 10px;
+
+}
+.formacion{
+    width: 500px;
+    height: 250px;
+    background-color : lightblue;
+    padding: 20px;
+    border-bottom: 10px;
+}
+.pasatiempo{
+    width: 500px;
+    height: 250px;
+    background-color : lightsalmon;
+    padding: 20px;
+    border-bottom: 10px;
+}
+
+p{
+    font-family: 'Merienda', cursive;
+}
